@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "267307205823",
+    "firebase_url": "https://parentteacherinteraction-63328.firebaseio.com",
+    "project_id": "parentteacherinteraction-63328",
+    "storage_bucket": "parentteacherinteraction-63328.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267307205823:android:5ce97fb30d3f704a",
+        "android_client_info": {
+          "package_name": "darshita.com.parentteacherinteraction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267307205823-e10em8dcfr4lodk4lte4nh9r9mdplppq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "darshita.com.parentteacherinteraction",
+            "certificate_hash": "894479d569cade07b1d4b6c37dcaaf91fff0df9b"
+          }
+        },
+        {
+          "client_id": "267307205823-q68haqdub1tj0onspl764sh1gkulipfv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "darshita.com.parentteacherinteraction",
+            "certificate_hash": "fad8f7483b3dd9e00ff58891d4e1ef3ef8a55ad3"
+          }
+        },
+        {
+          "client_id": "267307205823-602ccgm5b8umvij105l91j1s5v014tva.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn1BUYu0xdnNhia5c257wiozDjZeQJc2A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267307205823-602ccgm5b8umvij105l91j1s5v014tva.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

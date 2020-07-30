@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#456acf</color>
+    <!--<color name="colorPrimary">#2d4054</color>-->
+    <color name="colorPrimaryDark">#334f9b</color>
+    <color name="colorAccent">#393fbc</color>
+    <!--<color name="colorAccent">#25c3e2</color>-->
+    <color name="Red">#e2252e</color>
+    <color name="Green">#2baf06</color>
+    <color name="Orange">#ff8c00</color>
+
+
+    <color name="black">#000</color>
+    <color name="gray">#7b7b7b</color>
+    <color name="white">#ffffff</color>
+    <color name="swipebg">#cc3333</color>
+
+    <color name="publicColor">#ff6289</color>
+    <color name="privateColor">#ffc400</color>
+    <color name="menuItemsColor">#ffffff</color>
+    <color name="countColor">#999999</color>
+
+    <color name="list_item_selected_state">#ff93ac</color>
+    <color name="list_item_normal_state">#FFFFFF</color>
+
+    <color name="color_option_menu">#FF3990</color>
+    <color name="filter_label_normal">#8A8889</color>
+    <color name="filter_label_selected">#221F20</color>
+</resources>
